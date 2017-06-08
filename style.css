@@ -43,7 +43,6 @@ html, body {
 
 .form1{
     margin-top:30px;
-    margin-left:10px;
 }
 
 .border-form{
@@ -55,7 +54,9 @@ input[type=text]{
     height:40px;
 }
 
-
+.input-group{
+    width:220px;
+}
 
 .form-group div:not(:first-child) {
 

@@ -17,14 +17,14 @@ html, body {
 
 
 .main-container{
-    width:80%;
+    
     height:620px;
     margin-left: 0;
     background-color: #FFFFFF;
 }
 
 .side-container{
-    width:10%;
+    
 }
 
 .main-header{

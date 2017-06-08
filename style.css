@@ -123,9 +123,7 @@ input[type=text]{
 }
 
 
-
-
-@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+@media (max-width: 320px) {
     .logo{
         width: 130px;
         position: absolute;
@@ -167,12 +165,3 @@ input[type=text]{
     }
 }
 
-@media only screen and (min-device-width : 1024px)  {
-    .logo{
-        width: 130px;
-        position: absolute;
-        left: 50%;
-        margin-left: 80px !important;
-        display: block;
-    }
-}

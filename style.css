@@ -56,7 +56,7 @@ input[type=text]{
 }
 
 .input-group{
-    
+
 }
 
 .form-group div:not(:first-child) {
@@ -130,17 +130,10 @@ input[type=text]{
     padding-left: 20px;
 }
 
-@media only screen
-and (min-device-width: 320px)
-and (max-device-width: 768px)
-and (-webkit-min-device-pixel-ratio: 2) {
-    .col-xs-12{
-        padding: 0;
+
+/*tablet*/
+@media (min-width:600px){
+    .input-group input[type=text]{
+
     }
-}
-
-@media only screen
-and (min-device-width: 768px)
-and (-webkit-min-device-pixel-ratio: 2) {
-
 }

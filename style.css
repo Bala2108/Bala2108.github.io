@@ -60,7 +60,7 @@ input[type=text]{
 }
 
 .form-group div:not(:first-child) {
-    
+
 }
 
 .form2{
@@ -68,7 +68,7 @@ input[type=text]{
 }
 
 .first-input{
-    padding-left: 10px;
+
 }
 
 .label-color{
@@ -117,4 +117,8 @@ input[type=text]{
 
 .btn:hover{
     color:#FFFFFF;
+}
+
+.col-md-6{
+    padding-left: 20px;
 }

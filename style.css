@@ -111,6 +111,8 @@ input[type=text]{
     background-color: #10BC47;
 }
 
+
+
 .email-div{
 }
 
@@ -129,5 +131,8 @@ and (max-device-width: 768px)
 and (-webkit-min-device-pixel-ratio: 2) {
     .col-xs-12{
         padding: 0;
+    }
+    .email-btn{
+        margin-left: 60px;
     }
 }

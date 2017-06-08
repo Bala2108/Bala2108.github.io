@@ -98,9 +98,6 @@ input[type=text]{
     display:block;
 }
 
-.btn-row{
-    margin-left: 20px;
-}
 
 .btn{
     font-family: Roboto, arial, sans-serif;
@@ -109,6 +106,10 @@ input[type=text]{
     background-color: #999999;
     font-size: small;
     border-radius: 3px;
+}
+
+.btn-row{
+    margin-left: 20px;
 }
 
 .save-btn{

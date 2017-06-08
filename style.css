@@ -98,6 +98,10 @@ input[type=text]{
     display:block;
 }
 
+.btn-row{
+    margin-left: 20px;
+}
+
 .btn{
     font-family: Roboto, arial, sans-serif;
     border:0 solid transparent;
@@ -131,8 +135,5 @@ and (max-device-width: 768px)
 and (-webkit-min-device-pixel-ratio: 2) {
     .col-xs-12{
         padding: 0;
-    }
-    .email-div{
-        margin-left: 60px;
     }
 }

@@ -85,12 +85,15 @@ input[type=text]{
     padding-left:15px;
 }
 
-
+.img-div{
+    margin-top: 10px;
+    margin-left: 45px;
+}
 
 .logo{
     width:130px;
-    margin-left:auto;
-    margin-right:auto;
+    margin-left:0;
+    margin-right:0;
     display:block;
 }
 

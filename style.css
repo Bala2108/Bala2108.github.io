@@ -131,17 +131,19 @@ input[type=text]{
 }
 
 
-@media only screen and (max-width: 769px){
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
     .logo{
         width: 130px;
         position: absolute;
         left: 50%;
-        margin-left: -20px !important;
+        margin-left: -140px !important;
         display: block;
     }
 }
 
-@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+
+@media only screen and (max-width: 481px){
     .logo{
         width: 130px;
         position: absolute;
@@ -161,15 +163,17 @@ input[type=text]{
     }
 }
 
-@media only screen and (max-width: 481px){
+
+@media only screen and (max-width: 769px){
     .logo{
         width: 130px;
         position: absolute;
         left: 50%;
-        margin-left: -140px !important;
+        margin-left: -20px !important;
         display: block;
     }
 }
+
 
 @media only screen and (max-width: 1024px){
     .logo{

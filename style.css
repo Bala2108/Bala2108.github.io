@@ -123,44 +123,12 @@ input[type=text]{
 }
 
 
-@media (max-width: 320px) {
-    .logo{
-        width: 130px;
-        position: absolute;
-        left: 50%;
-        margin-left: -140px !important;
-        display: block;
-    }
-}
-
-
-@media only screen and (min-device-width : 480px) and (max-device-width : 768px) {
-    .logo{
-        width: 130px;
-        position: absolute;
-        left: 50%;
-        margin-left: -140px !important;
-        display: block;
-    }
-}
-
-
-@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
-    .logo{
-        width: 130px;
-        position: absolute;
-        left: 50%;
-        margin-left: 20px !important;
-        display: block;
-    }
-}
-
 @media only screen and (min-device-width: 1024px){
     .logo{
         width: 130px;
         position: absolute;
         left: 50%;
-        margin-left: -140px !important;
+        margin-left: 80px !important;
         display: block;
     }
 }

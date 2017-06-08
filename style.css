@@ -92,9 +92,10 @@ input[type=text]{
 
 .logo{
     width:130px;
-    margin-left:auto;
-    margin-right:auto;
-    display:block;
+    position: absolute;
+    left: 50%;
+    margin-left: -50px !important;  /* 50% of your logo width */
+    display: block;
 }
 
 

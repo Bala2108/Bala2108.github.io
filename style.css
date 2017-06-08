@@ -90,14 +90,6 @@ input[type=text]{
     margin-left: 45px;
 }
 
-.logo{
-    width:130px;
-    position: absolute;
-    left: 50%;
-    margin-left: -50px !important;  /* 50% of your logo width */
-    display: block;
-}
-
 
 .btn{
     font-family: Roboto, arial, sans-serif;
@@ -130,10 +122,21 @@ input[type=text]{
     padding-left: 20px;
 }
 
+.logo{
+    width: 130px;
+    position: absolute;
+    left: 50%;
+    margin-left: 80px !important;
+    display: block;
+}
 
-/*tablet*/
-@media (min-width:600px){
-    .input-group input[type=text]{
 
+@media only screen and (max-width: 1024px){
+    .logo{
+        width: 130px;
+        position: absolute;
+        left: 50%;
+        margin-left: 80px !important;
+        display: block;
     }
 }

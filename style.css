@@ -1,0 +1,123 @@
+html, body {
+    height: 100%;
+    background-color: #EEFAFF;
+}
+
+.container-fluid{
+    padding:0;
+}
+
+.navbar{
+    background: #0163B3;
+    height:80px;
+    border-radius:0;
+    border:0;
+    margin:0;
+}
+
+
+.main-container{
+    width:80%;
+    height:620px;
+    margin-left: 0;
+    background-color: #FFFFFF;
+}
+
+.side-container{
+    width:10%;
+}
+
+.main-header{
+    font-weight: bold;
+}
+
+.row1{
+    margin-top: 30px;
+    margin-left:5px;
+}
+
+.row2{
+    margin-left:0;
+    margin-top: 30px;
+}
+
+.form1{
+    margin-top:30px;
+    margin-left:10px;
+}
+
+.border-form{
+    height:45px;
+    border-bottom: 8px solid #F4F4F4;
+}
+
+input[type=text]{
+    height:40px;
+}
+
+.input-group{
+    width:220px;
+}
+
+.form-group div:not(:first-child) {
+    margin-left: 84px;
+}
+
+.form2{
+    margin-top: 20px;
+}
+
+.first-input{
+    padding-left: 10px;
+}
+
+.label-color{
+    color:#A8CBEA;
+}
+
+.required-field::after{
+    content: "*";
+    color:red;
+    margin-left:3px;
+}
+
+.customer-anchor{
+    color:#10BC47;
+    padding-left:15px;
+}
+
+.img-div{
+    margin-top: 10px;
+    margin-left: 45px;
+}
+
+.logo{
+    width:130px;
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+}
+
+.btn{
+    font-family: Roboto, arial, sans-serif;
+    border:0 solid transparent;
+    color:#FFFFFF;
+    background-color: #999999;
+    font-size: small;
+    height: 40px;
+    width:160px;
+    border-radius: 3px;
+}
+
+.save-btn{
+    background-color: #10BC47;
+}
+
+.email-div{
+    padding-left:25px;
+}
+
+
+.btn:hover{
+    color:#FFFFFF;
+}

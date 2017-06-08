@@ -60,7 +60,7 @@ input[type=text]{
 }
 
 .form-group div:not(:first-child) {
-    margin-left: 84px;
+    
 }
 
 .form2{
@@ -104,8 +104,6 @@ input[type=text]{
     color:#FFFFFF;
     background-color: #999999;
     font-size: small;
-    height: 40px;
-    width:160px;
     border-radius: 3px;
 }
 

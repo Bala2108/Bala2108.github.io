@@ -172,13 +172,7 @@ input[type=text]{
     display: block;
 }
 
-@media screen and (device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 2){
-    .logo{
-        width: 130px;
-        position: absolute;
-        left: 50%;
-        margin-left: -140px !important;
-        display: block;
-    }
+.final-row{
+    margin-top: 20px;
 }
 

@@ -131,12 +131,23 @@ input[type=text]{
 }
 
 
-@media only screen and (max-width: 1024px){
+@media only screen and (max-width: 768px){
     .logo{
         width: 130px;
         position: absolute;
         left: 50%;
-        margin-left: 80px !important;
+        margin-left: -20px !important;
         display: block;
     }
 }
+
+@media only screen and (max-width: 480px){
+    .logo{
+        width: 130px;
+        position: absolute;
+        left: 50%;
+        margin-left: -180px !important;
+        display: block;
+    }
+}
+

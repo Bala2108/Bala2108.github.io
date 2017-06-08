@@ -161,4 +161,13 @@ input[type=text]{
     }
 }
 
+@media only screen and (max-width: 481px){
+    .logo{
+        width: 130px;
+        position: absolute;
+        left: 50%;
+        margin-left: -140px !important;
+        display: block;
+    }
+}
 

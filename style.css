@@ -90,6 +90,7 @@ input[type=text]{
     padding-left:15px;
     font-family: 'sans-serif';
     text-decoration: underline;
+    font-size:10px;
 }
 
 .btn{
@@ -97,7 +98,7 @@ input[type=text]{
     border:0 solid transparent;
     color:#FFFFFF;
     background-color: #999999;
-    font-size: small;
+    font-size: 14px;
     border-radius: 3px;
 }
 

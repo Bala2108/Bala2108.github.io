@@ -92,7 +92,7 @@ input[type=text]{
     text-decoration: underline;
 }
 
-.btn{ 
+.btn{
     font-family: 'Roboto';
     border:0 solid transparent;
     color:#FFFFFF;
@@ -112,6 +112,7 @@ input[type=text]{
 
 
 .email-div{
+    margin-left: 10px;
 }
 
 

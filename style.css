@@ -91,7 +91,7 @@ input[type=text]{
 }
 
 .btn{
-    font-family: Roboto, arial, sans-serif;
+    font-family: 'sans-serif';
     border:0 solid transparent;
     color:#FFFFFF;
     background-color: #999999;

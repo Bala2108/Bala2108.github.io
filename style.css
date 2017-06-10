@@ -207,7 +207,7 @@ and (orientation : landscape) {
 
 @media (min-width : 1920px) {
     .navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand {
-        margin-left: 254%;
+        margin-left: 224%;
     }
 }
 

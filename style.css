@@ -111,11 +111,6 @@ input[type=text]{
 
 
 
-.email-btn{
-    margin-left: 10px;
-}
-
-
 .btn:hover{
     color:#FFFFFF;
 }
@@ -143,11 +138,19 @@ input[type=text]{
     .navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand {
         margin-left: 14%;
     }
+
+    .email-btn{
+        margin-top: 10px;
+    }
 }
 
 @media (min-width: 360px) {
     .navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand {
         margin-left: 14%;
+    }
+
+    .email-btn{
+        margin-top: 10px;
     }
 }
 
@@ -155,17 +158,29 @@ input[type=text]{
     .navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand {
         margin-left: 14%;
     }
+
+    .email-btn{
+        margin-top: 10px;
+    }
 }
 
 @media (min-width: 667px) {
     .navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand {
         margin-left: 64%;
     }
+
+    .email-btn{
+        margin-top: 10px;
+    }
 }
 
 @media (min-width: 768px) {
     .navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand {
         margin-left: 76%;
+    }
+
+    .email-btn{
+        margin-top: 10px;
     }
 }
 
@@ -176,11 +191,19 @@ and (orientation : landscape) {
     .navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand {
         margin-left: 110%;
     }
+
+    .email-btn{
+        margin-top: 10px;
+    }
 }
 
 @media (min-width: 992px) {
     .navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand {
         margin-left: 110%;
+    }
+
+    .email-btn{
+        margin-left: 10px;
     }
 }
 
@@ -194,11 +217,19 @@ and (orientation : landscape) {
     .navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand {
         margin-left: 164%;
     }
+
+    .email-btn{
+        margin-left: 10px;
+    }
 }
 
 @media (min-width : 1600px) {
     .navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand {
         margin-left: 184%;
+    }
+
+    .email-btn{
+        margin-left: 10px;
     }
 }
 
@@ -206,11 +237,19 @@ and (orientation : landscape) {
     .navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand {
         margin-left: 194%;
     }
+
+    .email-btn{
+        margin-left: 10px;
+    }
 }
 
 @media (min-width : 1920px) {
     .navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand {
         margin-left: 224%;
+    }
+
+    .email-btn{
+        margin-left: 10px;
     }
 }
 

@@ -165,14 +165,19 @@ input[type=text]{
         margin-left: 76%;
     }
 }
-@media (min-width: 992px) {
+
+@media only screen
+and (min-width : 768px)
+and (max-width : 1024px)
+and (orientation : landscape) {
     .navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand {
         margin-left: 110%;
     }
 }
-@media (min-width: 1024px) {
+
+@media (min-width: 992px) {
     .navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand {
-        margin-left: 44%;
+        margin-left: 110%;
     }
 }
 @media (min-width: 1200px) {

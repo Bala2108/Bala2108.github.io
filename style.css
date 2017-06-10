@@ -225,28 +225,19 @@ and (orientation : landscape) {
     margin-top: 20px;
 }
 
-::-webkit-input-placeholder {
-    font-size: 25px;
+input[type=text]::-webkit-input-placeholder {
+    font-family: 'sans-serif';
 }
 
-:-moz-placeholder { /* Firefox 18- */
-    font-size: 25px;
+input[type=text]:-ms-input-placeholder {
+    font-family: 'sans-serif';
 }
 
-::-moz-placeholder {  /* Firefox 19+ */
-    font-size: 25px;
+input[type=text]:-moz-placeholder {
+    font-family: 'sans-serif';
 }
 
-/* Overriding styles */
-
-::-webkit-input-placeholder {
-    font-size: 13px!important;
-}
-
-:-moz-placeholder { /* Firefox 18- */
-    font-size: 13px!important;
-}
-::-moz-placeholder {  /* Firefox 19+ */
-    font-size: 13px!important;
+input[type=text]::-moz-placeholder {
+    font-family: 'sans-serif';
 }
 

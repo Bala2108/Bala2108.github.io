@@ -90,6 +90,7 @@ input[type=text]{
     padding-left:15px;
     font-family: 'sans-serif';
     text-decoration: underline;
+    border-bottom: 1px;
 }
 
 .btn{

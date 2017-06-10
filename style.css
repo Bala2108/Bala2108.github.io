@@ -180,17 +180,34 @@ and (orientation : landscape) {
         margin-left: 110%;
     }
 }
+
 @media (min-width: 1200px) {
     .navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand {
         margin-left: 154%;
     }
 }
 
-@media only screen
-and (min-width : 1680px)
-and (max-width : 1920px) {
+@media (min-width: 1440px) {
     .navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand {
-        margin-left: 224%;
+        margin-left: 164%;
+    }
+}
+
+@media (min-width : 1600px) {
+    .navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand {
+        margin-left: 184%;
+    }
+}
+
+@media (min-width : 1680px) {
+    .navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand {
+        margin-left: 194%;
+    }
+}
+
+@media (min-width : 1920px) {
+    .navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand {
+        margin-left: 254%;
     }
 }
 

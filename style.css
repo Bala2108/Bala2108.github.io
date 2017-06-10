@@ -90,8 +90,6 @@ input[type=text]{
     padding-left:15px;
     font-family: 'sans-serif';
     text-decoration: underline;
-    display: inline;
-    padding-bottom: 3px;
 }
 
 .btn{

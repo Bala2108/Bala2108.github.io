@@ -281,8 +281,8 @@ input[type=text]::-moz-placeholder {
     background: #FFFFFF;
 }
 
-.form-control:focus .input-group-addon{
-    border:blue;
+.form-control:focus .input-group-addon:focus{
+    outline-color:blue;
 }
 
 .row2 .form-control{

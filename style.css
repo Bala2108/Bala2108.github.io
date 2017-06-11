@@ -91,6 +91,7 @@ input[type=text]{
     font-family: 'Roboto';
     text-decoration: underline;
     margin-bottom:30px;
+    cursor: pointer;
 }
 
 .btn{

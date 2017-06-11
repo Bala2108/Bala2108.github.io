@@ -152,6 +152,13 @@ input[type=text]{
     }
 }
 
+@media (min-width: 522px){
+    .navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand {
+        margin-left: 222%;
+    }
+
+}
+
 @media (min-width: 667px) {
     .navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand {
         margin-left: 64%;

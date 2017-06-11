@@ -283,7 +283,7 @@ input[type=text]::-moz-placeholder {
     color:#5E8FCD;
 }
 
-input[type="text"]:focus{
-    outline:0 none;
+input:focus{
+    outline:none;
 }
 

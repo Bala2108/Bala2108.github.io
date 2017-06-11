@@ -88,7 +88,7 @@ input[type=text]{
 .customer-anchor{
     color:#10BC47;
     padding-left:15px;
-    font-family: 'sans-serif';
+    font-family: 'Roboto';
     text-decoration: underline;
     margin-bottom:30px;
 }
@@ -251,19 +251,19 @@ and (orientation : landscape) {
 }
 
 input[type=text]::-webkit-input-placeholder {
-    font-family: 'sans-serif';
+    font-family: 'Roboto';
 }
 
 input[type=text]:-ms-input-placeholder {
-    font-family: 'sans-serif';
+    font-family: 'Roboto';
 }
 
 input[type=text]:-moz-placeholder {
-    font-family: 'sans-serif';
+    font-family: 'Roboto';
 }
 
 input[type=text]::-moz-placeholder {
-    font-family: 'sans-serif';
+    font-family: 'Roboto';
 }
 
 .input-group-addon{

@@ -60,7 +60,9 @@ input[type=text]{
 }
 
 .form-control:focus{
-    outline: lightblue;
+    outline: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
 }
 
 .input-group{

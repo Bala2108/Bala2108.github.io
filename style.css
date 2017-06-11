@@ -51,7 +51,7 @@ html, body {
 }
 
 .border-form{
-    height:45px;
+    height:30px;
     border-bottom: 8px solid #F4F4F4;
 }
 
@@ -68,7 +68,7 @@ input[type=text]{
 }
 
 .form2{
-    margin-top: 20px;
+    margin-top: 30px;
 }
 
 .first-input{
@@ -90,6 +90,7 @@ input[type=text]{
     padding-left:15px;
     font-family: 'sans-serif';
     text-decoration: underline;
+    margin-bottom:30px;
 }
 
 .btn{
@@ -246,7 +247,7 @@ and (orientation : landscape) {
 }
 
 .final-row{
-    margin-top: 20px;
+    margin-top: 30px;
 }
 
 input[type=text]::-webkit-input-placeholder {

@@ -280,6 +280,9 @@ input[type=text]::-moz-placeholder {
 
 .input-group-addon{
     background: #FFFFFF;
+}
+
+.input-group-addon:focus{
     border: blue;
 }
 

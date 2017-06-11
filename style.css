@@ -138,41 +138,17 @@ input[type=text]{
     .navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand {
         margin-left: 14%;
     }
-
-    .email-btn{
-        margin-top: 10px;
-    }
-
-    .form-group div:not(:first-child) {
-        margin-top:10px;
-    }
 }
 
 @media (min-width: 360px) {
     .navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand {
         margin-left: 14%;
     }
-
-    .email-btn{
-        margin-top: 10px;
-    }
-
-    .form-group div:not(:first-child) {
-        margin-top:10px;
-    }
 }
 
 @media (min-width: 468px) {
     .navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand {
         margin-left: 14%;
-    }
-
-    .email-btn{
-        margin-top: 10px;
-    }
-
-    .form-group div:not(:first-child) {
-        margin-top:10px;
     }
 }
 
@@ -181,9 +157,6 @@ input[type=text]{
         margin-left: 64%;
     }
 
-    .email-btn{
-        margin-top: 10px;
-    }
 }
 
 @media (min-width: 768px) {
@@ -191,9 +164,6 @@ input[type=text]{
         margin-left: 76%;
     }
 
-    .email-btn{
-        margin-top: 10px;
-    }
 }
 
 @media only screen
@@ -204,9 +174,6 @@ and (orientation : landscape) {
         margin-left: 110%;
     }
 
-    .email-btn{
-        margin-top: 10px;
-    }
 }
 
 @media (min-width: 992px) {

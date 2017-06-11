@@ -159,9 +159,9 @@ input[type=text]{
 
 }
 
-@media (min-width: 720px) {
+@media screen and (device-width: 720px) and (device-height: 1280px)  {
     .navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand {
-        margin-left: 64%;
+        margin-left: 104%;
     }
 
 }

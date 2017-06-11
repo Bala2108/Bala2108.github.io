@@ -252,18 +252,22 @@ and (orientation : landscape) {
 
 input[type=text]::-webkit-input-placeholder {
     font-family: 'Roboto';
+    font-size: 10px;
 }
 
 input[type=text]:-ms-input-placeholder {
     font-family: 'Roboto';
+    font-size: 10px;
 }
 
 input[type=text]:-moz-placeholder {
     font-family: 'Roboto';
+    font-size: 10px;
 }
 
 input[type=text]::-moz-placeholder {
     font-family: 'Roboto';
+    font-size: 10px;
 }
 
 .input-group-addon{

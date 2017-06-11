@@ -252,17 +252,17 @@ and (orientation : landscape) {
 
 input[type=text]::-webkit-input-placeholder {
     font-family: 'Roboto';
-    font-size: 10px;
+    font-size: 14px;
 }
 
 input[type=text]:-ms-input-placeholder {
     font-family: 'Roboto';
-    font-size: 10px;
+    font-size: 14px;
 }
 
 input[type=text]:-moz-placeholder {
     font-family: 'Roboto';
-    font-size: 10px;
+    font-size: 14px;
 }
 
 input[type=text]::-moz-placeholder {

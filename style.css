@@ -265,3 +265,15 @@ input[type=text]::-moz-placeholder {
     font-family: 'sans-serif';
 }
 
+.input-group-addon{
+    background: #FFFFFF;
+}
+
+.row2 .form-control{
+    border-right:0;
+}
+
+.glyphicon-calendar{
+    color:#739CD1;
+}
+

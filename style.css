@@ -59,7 +59,7 @@ input[type=text]{
     height:40px;
 }
 
-input:focus{
+.form-control:focus{
     outline: none;
 }
 
